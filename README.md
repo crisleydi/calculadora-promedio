@@ -65,3 +65,9 @@ python3 calculadora_promedio.py
 - Nombre: Crisleydi Libertad López Quiroga
 - Carrera: Ing Sistemas
 - Semestre: Quinto sementre
+
+## Próximas mejoras
+
+- Validar los datos ingresados.
+- Permitir calcular el promedio de más de tres notas.
+- Mejorar la presentación del programa.
